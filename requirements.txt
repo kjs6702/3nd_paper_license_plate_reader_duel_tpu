@@ -1,0 +1,18 @@
+# 수치 연산 및 유틸리티
+numpy==1.26.4
+pandas==2.2.3
+tqdm==4.67.1
+psutil==7.0.0
+rich==14.0.0
+tensorflow==2.19.0
+
+# 시각화 및 이미지 처리
+opencv-python==4.11.0.86
+pillow==11.2.1
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Coral TPU 추론용 EfficientDet-lite0
+tflite-runtime==2.5.0.post1
+pycoral==2.0.0
+edge-tpu-silva==1.0.5
